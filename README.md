@@ -11,7 +11,7 @@ POC diatas menggunakan endpoint dari project 1 GogoManager dengan port 8081. Sil
 4. Coba hit api dengan postman dengan port `8080`
 
 # Konfigurasi
-```json
+```
 ...
     upstream [ur_awesome_service_1] {
         server host.docker.internal:[ur_port_1];
